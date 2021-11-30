@@ -138,8 +138,6 @@ inputs:
         - Junctions
         - SeparateSAMold
         - WithinBAM
-        - "WithinBAM HardClip"
-        - "WithinBAM SoftClip"
 
   ChimSegmentMin:
     type: int?
