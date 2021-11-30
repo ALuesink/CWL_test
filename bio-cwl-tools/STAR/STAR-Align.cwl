@@ -191,7 +191,6 @@ inputs:
        symbols:
         - None
         - Within
-        - "Within KeepPairs"
     inputBinding:
       prefix: "--outSAMunmapped"
 
