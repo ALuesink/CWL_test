@@ -1,0 +1,125 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "KerstenBreuer",
+      "name": "KerstenBreuer",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/28008309?v=4",
+      "profile": "https://github.com/KerstenBreuer",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "tetron",
+      "name": "Peter Amstutz",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1316612?v=4",
+      "profile": "https://github.com/tetron",
+      "contributions": [
+        "ideas",
+        "code"
+      ]
+    },
+    {
+      "login": "michael-kotliar",
+      "name": "Michael Kotliar",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/19493721?v=4",
+      "profile": "https://github.com/michael-kotliar",
+      "contributions": [
+        "ideas",
+        "code"
+      ]
+    },
+    {
+      "login": "pvanheus",
+      "name": "pvanheus",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/4154788?v=4",
+      "profile": "https://github.com/pvanheus",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "medcelerate",
+      "name": "medcelerate",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/32549017?v=4",
+      "profile": "https://github.com/medcelerate",
+      "contributions": [
+        "ideas"
+      ]
+    },
+    {
+      "login": "stain",
+      "name": "stain",
+      "avatar_url": "ihttps://avatars3.githubusercontent.com/u/253413?v=4",
+      "profile": "https://github.com/stain",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mb1069",
+      "name": "Miguel Boland",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/9156542?v=4",
+      "profile": "https://github.com/mb1069",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "fjrmoreews",
+      "name": "fjrmoreews",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/15047744?v=4",
+      "profile": "https://github.com/fjrmoreews",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "hellymac",
+      "name": "cjuigne",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/25847234?v=4",
+      "profile": "https://github.com/hellymac",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "mberacochea",
+      "name": "Martín Beracochea",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/1123897?v=4",
+      "profile": "https://github.com/mberacochea",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "denis-yuen",
+      "name": "Denis Yuen",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/1730679?v=4",
+      "profile": "https://orcid.org/0000-0002-6130-1021",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "skanwal",
+      "name": "Sehrish Kanwal",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/9857259?v=4",
+      "profile": "https://www.linkedin.com/in/sehrish-kanwal-1b80bb42/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "bio-cwl-tools",
+  "projectOwner": "common-workflow-library",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": false
+}
