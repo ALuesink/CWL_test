@@ -9,7 +9,7 @@ steps:
   quality_control:
     run: bio-cwl-tools/fastqc/fastqc_2.cwl
       in:
-      reads_file: rna_reads_human
+        reads_file: rna_reads_human
     out: [html_file]
 
   mapping_reads:
