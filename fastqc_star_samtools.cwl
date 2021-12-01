@@ -1,4 +1,4 @@
-clwVersion: v1.2
+cwlVersion: v1.2
 class: Workflow
 
 inputs:
